@@ -1,5 +1,9 @@
 package ru.spbstu.main.shapes;
 
+import java.util.logging.Level;
+import java.util.logging.LogRecord;
+import java.util.logging.Logger;
+
 /**
  * Представление о прямоугольнике.
  * <p>
@@ -11,13 +15,22 @@ package ru.spbstu.main.shapes;
 public class Rectangle implements Polygon {
 	private float height;
 	private float width;
-	private int angle = 0;
+	private int angle;
 	private StructurePoint startPosition;
 	
 	public Rectangle(float height, float width, StructurePoint point) {
+		if ((height < 0) || (width < 0)) {
+			try {
+				throw new IllegalArgumentException("Не правильно выбраны параметры");
+			} catch (IllegalArgumentException e) {
+				Logger.getLogger(Rectangle.class.getName()).log(new LogRecord(Level.WARNING, e.getMessage()));
+				System.exit(1);
+			}
+		}
 		this.height = height;
 		this.width = width;
-		startPosition = point;
+		this.startPosition = point;
+		this.angle = 0;
 	}
 	
 	@Override

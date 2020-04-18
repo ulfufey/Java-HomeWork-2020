@@ -16,7 +16,7 @@ public class Main {
     }
     public static void main(String[] args) {
         Shape[] shapes = new Shape[5];
-        shapes[0] = new Rectangle(10,5, new StructurePoint(10,10));
+        shapes[0] = new Rectangle(-10,5, new StructurePoint(10,10));
         shapes[1] = new Rectangle(10,10, new StructurePoint(15,15));
         shapes[2] = new Triangle(10,10,11, new StructurePoint(100,100));
         shapes[3] = new Circle(10, new StructurePoint(150,150));

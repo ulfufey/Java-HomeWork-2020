@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="10a47833-bc06-40a8-bf19-d9a8081b9db0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Ellipse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Ellipse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Polygon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/StructurePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/StructurePoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/spbstu/main/shapes/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1586176008161" duration="33000" />
       <workItem from="1586279085767" duration="629000" />
       <workItem from="1587203058762" duration="286000" />
-      <workItem from="1587209195848" duration="2028000" />
+      <workItem from="1587209195848" duration="6037000" />
     </task>
     <servers />
   </component>
@@ -98,33 +96,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1587210866028" />
-    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1587209381049">
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1587227363802">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587209381049" />
-    <state width="1388" height="232" key="GridCell.Tab.0.bottom" timestamp="1586175927763">
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587227363802" />
+    <state width="1440" height="232" key="GridCell.Tab.0.bottom" timestamp="1587227298058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586175927763" />
-    <state width="1388" height="232" key="GridCell.Tab.0.center" timestamp="1586175927762">
+    <state width="1440" height="232" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587227298058" />
+    <state width="1440" height="232" key="GridCell.Tab.0.center" timestamp="1587227298057">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586175927762" />
-    <state width="1388" height="232" key="GridCell.Tab.0.left" timestamp="1586175927761">
+    <state width="1440" height="232" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587227298057" />
+    <state width="1440" height="232" key="GridCell.Tab.0.left" timestamp="1587227298057">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586175927761" />
-    <state width="1388" height="232" key="GridCell.Tab.0.right" timestamp="1586175927762">
+    <state width="1440" height="232" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587227298057" />
+    <state width="1440" height="232" key="GridCell.Tab.0.right" timestamp="1587227298058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586175927762" />
+    <state width="1440" height="232" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587227298058" />
     <state x="341" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1587203059434">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="341" y="244" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587203059434" />
-    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587209386164">
+    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587227359897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1587209386164" />
+    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1587227359897" />
   </component>
 </project>

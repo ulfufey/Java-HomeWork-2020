@@ -1,5 +1,10 @@
 package ru.spbstu.main.shapes;
 
+
+import java.util.logging.Level;
+import java.util.logging.LogRecord;
+import java.util.logging.Logger;
+
 /**
  * Представление о треугольнике.
  * <p>
@@ -21,7 +26,15 @@ public class Triangle implements Polygon {
 	private StructurePoint startPosition;
 	private int angle = 0;
 	
-	public Triangle(float firstSide, float secondSide, float thirdSide, StructurePoint startPosition){
+	public Triangle(float firstSide, float secondSide, float thirdSide, StructurePoint startPosition) {
+		if ((firstSide + secondSide < thirdSide) || (firstSide + thirdSide < secondSide) || (secondSide + thirdSide < firstSide)) {
+			try {
+				throw new IllegalArgumentException("Неверно введены стороны треугольника");
+			} catch (IllegalArgumentException e) {
+				Logger.getLogger(Triangle.class.getName()).log(new LogRecord(Level.WARNING, e.getMessage()));
+				System.exit(1);
+			}
+		}
 		this.firstSide = firstSide;
 		this.secondSide = secondSide;
 		this.thirdSide = thirdSide;
