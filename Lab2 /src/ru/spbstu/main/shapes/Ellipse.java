@@ -10,6 +10,6 @@ package ru.spbstu.main.shapes;
  *
  * @see <a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B8%D0%BF%D1%81">Эллипс</a>
  */
-public interface Ellipse {
+public interface Ellipse extends Shape {
     float getLength();
 }
