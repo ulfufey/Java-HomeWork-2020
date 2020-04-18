@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1XD6Cfjum8N64KgsIvpDHGXhNcD" />
@@ -86,6 +87,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="489" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586138844868" />
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1587209381049">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587209381049" />
     <state width="1388" height="232" key="GridCell.Tab.0.bottom" timestamp="1586175927763">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -106,5 +111,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="341" y="244" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587203059434" />
+    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587209386164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="356" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1587209386164" />
   </component>
 </project>
